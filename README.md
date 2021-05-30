@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio ([Back](https://steenblikrs.github.io/2021-Spring-Studio/students/Carol/index))
 
 # Xing Lihong | Carol
 
@@ -10,6 +10,7 @@
 <br>
 Collages:
  <img alt="Carol" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Carol/Xing_Lihong_Lecture02.gif?raw=true" width="300">
+<br>
 <br>
 Model:
 <iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//xinglihongcarol.github.io/Portfolio/Image/Panorama_City_2021-04-16-17-44-41.jpg"></iframe>
