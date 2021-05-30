@@ -13,3 +13,5 @@ Collages:
 <br>
 Model:
 <iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//xinglihongcarol.github.io/Portfolio/Image/Panorama_City_2021-04-16-17-44-41.jpg"></iframe>
+
+(For more detailed information, please go to this [PAGE](https://lihongx.wixsite.com/my-site-6))
