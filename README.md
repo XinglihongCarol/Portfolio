@@ -1,4 +1,4 @@
-# Portfolio ([Back](https://steenblikrs.github.io/2021-Spring-Studio/students/Carol/index))
+# Portfolio ([Back to Main Page](https://steenblikrs.github.io/2021-Spring-Studio/students/Carol/index))
 
 # Xing Lihong | Carol
 
